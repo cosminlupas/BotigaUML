@@ -1,1 +1,1 @@
-# BotigaUML
+# Cosmin Mihai Lupas
